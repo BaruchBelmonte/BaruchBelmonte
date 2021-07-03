@@ -7,7 +7,7 @@ Actual powers: 🟣 Data Bases | 🟣 JavaScript | 🟣 C# | 🟣 C++ |
 
 Skills in proccess: |Python 🐍| Android 👾| 
 
-I want to... IA 🤖|Machine Learning 🧠|Dogs 🐕|Crocodiles 🐊|
+I want to... IA 🤖|Machine Learning 🧠|
 
 <!-- 
   Ah, antes de la Universidad fue reparar y limpiar PC's.
