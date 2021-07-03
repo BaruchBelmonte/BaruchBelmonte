@@ -3,7 +3,7 @@
 Name: Baruch Belmonte
 Age: 25
 
-Actual powers: 🟣 C# | 🟣 C++ | 🟣 PHP | 🟣 HTML
+Actual powers: 🟣 Data Bases | 🟣 JavaScript | 🟣 C# | 🟣 C++ |
 
 Skills in proccess: |Python 🐍| Android 👾| 
 
